@@ -21,7 +21,7 @@ This project was created to practice and showcase front-end development and UI/U
 (Add screenshots here)
 
 ## 🌐 Live Demo
-(Add your deployed link here)
+The project was deployed using Github Pages, check this [link](https://nongoantonio.github.io/elegant_auth_ui/) and enyoy!
 
 ## 📌 Author
 Gideão Hernández
