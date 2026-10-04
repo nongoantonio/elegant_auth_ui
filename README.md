@@ -1,21 +1,17 @@
 # ✨ Elegant Auth UI
 
-Uma interface moderna e elegante de autenticação, desenvolvida com HTML, CSS e JavaScript.
+A modern and elegant authentication interface featuring login and registration pages, built with HTML, CSS, and JavaScript.
 
-O projeto apresenta páginas de login e cadastro com foco em uma experiência de usuário simples, responsiva e visualmente agradável.
-
-## 📸 Preview
-
-![Elegant Auth UI Preview](./assets/preview.png)
+This project focuses on clean design, responsive layouts, smooth interactions, and a pleasant user experience.
 
 ## 🚀 Features
 
-* 🔐 Interface de login e cadastro
-* 🎨 Design moderno e elegante
-* 📱 Layout responsivo para diferentes dispositivos
-* ⚡ Interações desenvolvidas com JavaScript
-* 🧹 Código organizado e estruturado
-* 🎯 Foco em UI/UX e experiência do usuário
+* 🔐 Login and registration interfaces
+* 🎨 Modern and elegant UI design
+* 📱 Fully responsive layout
+* ⚡ Interactive elements powered by JavaScript
+* 🧹 Clean and well-structured code
+* 🎯 Focus on UI/UX best practices
 
 ## 🛠️ Technologies
 
@@ -23,15 +19,25 @@ O projeto apresenta páginas de login e cadastro com foco em uma experiência de
 * CSS3
 * JavaScript
 
+## 📸 Preview
+
+### 🔐 Login
+
+![Login](./assets/login.png)
+
+### 📝 Registration
+
+![Registration](./assets/register.png)
+
 ## 🎯 Purpose
 
-Este projeto foi desenvolvido com o objetivo de praticar e aprimorar habilidades em desenvolvimento Front-End, criação de interfaces modernas e princípios de UI/UX.
+This project was created to practice and showcase front-end development and UI/UX design skills, with a focus on creating modern, responsive, and user-friendly interfaces.
 
 ## 🌐 Live Demo
 
-🚀 Confira o projeto funcionando:
+🚀 **Try the live version:**
 
-👉 https://nongoantonio.github.io/elegant_auth_ui/
+[View Live Demo](https://nongoantonio.github.io/elegant_auth_ui/)
 
 ## 📂 Project Structure
 
@@ -39,7 +45,8 @@ Este projeto foi desenvolvido com o objetivo de praticar e aprimorar habilidades
 elegant_auth_ui/
 │
 ├── assets/
-│   └── preview.png
+│   ├── login.png
+│   └── register.png
 │
 ├── index.html
 ├── style.css
@@ -50,28 +57,28 @@ elegant_auth_ui/
 
 ## 💻 Getting Started
 
-Clone o repositório:
+### Clone the repository
 
 ```bash
 git clone https://github.com/nongoantonio/elegant_auth_ui.git
 ```
 
-Entre na pasta:
+### Navigate to the project
 
 ```bash
 cd elegant_auth_ui
 ```
 
-Depois, abra o arquivo `index.html` no navegador.
+### Run the project
 
-Para uma melhor experiência durante o desenvolvimento, você também pode utilizar a extensão Live Server no Visual Studio Code.
+Open `index.html` directly in your browser or use the **Live Server** extension in Visual Studio Code for a better development experience.
 
 ## 👨‍💻 Author
 
-Gideão Hernández
+**Gideão Hernández**
 
-Front-End Developer em formação, focado na criação de interfaces modernas, responsivas e experiências digitais intuitivas.
+Front-End Developer focused on building modern, responsive, and user-friendly web interfaces.
 
 ---
 
-⭐ Se você gostou do projeto, considere deixar uma estrela no repositório!
+⭐ If you like this project, consider giving the repository a star!
