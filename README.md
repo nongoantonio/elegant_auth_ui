@@ -45,14 +45,15 @@ This project was created to practice and showcase front-end development and UI/U
 elegant_auth_ui/
 │
 ├── assets/
-│   ├── login.png
-│   └── register.png
+│   ├── bg.png          # Main background image
+│   ├── login.png       # Login illustration / background
+│   └── register.png    # Registration illustration / background
 │
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-└── LICENSE
+├── index.html          # Main HTML markup
+├── style.css           # Custom styles & animations
+├── script.js           # Interactive slider functionality
+├── README.md           # Project documentation
+└── LICENSE             # License details
 ```
 
 ## 💻 Getting Started
